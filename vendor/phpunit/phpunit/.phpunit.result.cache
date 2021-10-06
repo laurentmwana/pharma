@@ -1,0 +1,1 @@
+{"version":1,"defects":{"RouterTest::testGet":5,"Warning":6,"essaieTest::testAmen":3,"paginateTest::testItems":4},"times":{"RouterTest::testGet":0.008,"Warning":0,"essaieTest::testAmen":0.003,"paginateTest::testItems":0.552}}

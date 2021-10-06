@@ -1,0 +1,1 @@
+<h2 class="text-info">Je suis la page d'erreur 505 </h2>
